@@ -1,4 +1,4 @@
-package com.example.texttovoice;
+package com.example.jay.texttovoice;
 
 import android.speech.tts.TextToSpeech;
 import android.support.v7.app.AppCompatActivity;
